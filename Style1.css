@@ -7,11 +7,12 @@ h1 {
     margin-top: 40px auto 0 auto;
     color: #66BFBF;
     font-size: 85px;
-    font-family: 'Sacramento', cursive;}
+    font-family: 'Sacramento', cursive;
+}
 
 h2  {
-    font-size: 2.2rem;
-    font-family: 'Montserrat', sans-serif;
+    font-size: 2.3rem;
+    font-family: 'Noto Sans', sans-serif;
     color: #66BFBF;
     font-weight: bold;
     }
@@ -22,7 +23,9 @@ h2  {
     }
 h3 {
     font-family: 'Montserrat', sans-serif;
-    color: #11999E;}
+    color: #11999E;
+    font-size: 21px;
+}
 
 body {
     margin: 0; 
@@ -62,6 +65,10 @@ body {
     bottom: 300px;
     left: 40px;
     }
+p {
+    font-family: 'Tiro Gurmukhi', serif;
+    font-size: 16px;
+}
 
 hr { 
     border: dotted #EAF6f6 8px;
@@ -73,6 +80,16 @@ hr {
     width: 40%;
     margin: 40px auto 60px ;
     }
+
+.img {
+    width: 270px;
+    text-align: center;
+    border-radius: 100%;
+    
+
+
+
+}
 
 .btn {
         background: #11ccd4;
